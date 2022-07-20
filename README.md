@@ -6,3 +6,6 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofanini-prog&layout=compact&&theme=garden&hide_border=true&bgcolor=1B663E&title_color=1B663E&text_color=1B663E"/>
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=albertofanini-prog&theme=garden&hide_border=true&background=1B663E"/>
 </div>
+
+
+<img width="20%" height="auto" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
