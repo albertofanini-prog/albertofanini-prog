@@ -8,4 +8,4 @@
 </div>
 
 
-<img width="20%" height="auto" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img width="10%" height="auto" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
