@@ -7,7 +7,7 @@
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=albertofanini-prog&theme=garden&hide_border=true&background=1B663E"/>
 </div>
 
-<div align="center" margin-top="40px">
+<div align="space-between" margin-top="40px">
   <img width="8%" height="25px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img width="8%" height="25px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img width="8%" height="25px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
